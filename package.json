@@ -31,7 +31,7 @@
                 },
                 "talon-filetree.hintPosition": {
                     "type": "string",
-                    "default": "right",
+                    "default": "left",
                     "enum": [
                         "left",
                         "right"
